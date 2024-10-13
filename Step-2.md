@@ -122,3 +122,25 @@ Login to Ansible-jenkins server. File common-del.yml got updated in ansible-conf
          cd /home/ubuntu/ansible-config-artifact/
          ansible-playbook -i inventory/dev.yml playbooks/site.yml
 ```
+![image](https://github.com/user-attachments/assets/75c960d6-8900-4adf-a127-b8e293f4d3fc)
+
+- Ensure wireshark is deleted on all servers by running wireshark --version
+
+Output.
+![image](https://github.com/user-attachments/assets/109a112f-dd8b-49a3-91bd-3aacc259e7e1)
+
+Output.
+![image](https://github.com/user-attachments/assets/755061aa-3cab-4b93-90cb-2808a7ab5843)
+
+Output.
+![image](https://github.com/user-attachments/assets/743da5db-e8f9-4e84-9d43-dada06e9607e)
+
+Output.
+![image](https://github.com/user-attachments/assets/def71fc4-dbb0-4de0-b703-b332d443811c)
+
+Output.
+![image](https://github.com/user-attachments/assets/bbe85f45-5b13-4dc6-ae94-5b455ac8e728)
+
+
+- 
+
